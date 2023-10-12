@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Dollar Flight Club's backend.<br>🌱 I'm currently learning more about CAD Kernel.<br>👯‍♂️ I'm looking to collaborate on an open-source project.<br>🤔 I'm looking for help with ezdxf Documentation.<br>💬 Ask me about 3D printing or CNC related stuff.<br>📬 How to reach me: email - nickusaha@gmail.com<br>
+🔭 I'm currently working on dollarflightclub.com.<br>🌱 I'm currently learning more about CAD Kernel.<br>👯‍♂️ I'm looking to collaborate on an open-source project.<br>🤔 I'm looking for help with ezdxf Documentation.<br>💬 Ask me about 3D printing or CNC related stuff.<br>📬 How to reach me: email - nickusaha@gmail.com<br>
 
 
 # 💻 Tech Stack:
